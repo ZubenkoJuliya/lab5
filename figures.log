@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-10-22T13:22:10.483461Z</date>
+  <millis>1729603330483</millis>
+  <nanos>461000</nanos>
+  <sequence>0</sequence>
+  <logger>geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Created Circle: Circle: radius=5,00, area=78,50, perimeter=31,40</message>
+</record>
+<record>
+  <date>2024-10-22T13:22:10.637501700Z</date>
+  <millis>1729603330637</millis>
+  <nanos>501700</nanos>
+  <sequence>6</sequence>
+  <logger>geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Attempted to create Circle with invalid radius: -3.0</message>
+</record>
+<record>
+  <date>2024-10-22T13:22:10.664508900Z</date>
+  <millis>1729603330664</millis>
+  <nanos>508900</nanos>
+  <sequence>12</sequence>
+  <logger>geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Created Circle: Circle: radius=4,00, area=50,24, perimeter=25,12</message>
+</record>
+</log>

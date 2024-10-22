@@ -1,0 +1,6 @@
+окт. 22, 2024 8:22:10 PM geometry3d.Cylinder <init>
+FINE: Created Cylinder: Cylinder: base=[Circle: radius=5,00, area=78,50, perimeter=31,40], height=10,00, volume=785,00
+окт. 22, 2024 8:22:10 PM geometry3d.Cylinder <init>
+SEVERE: Attempted to create Cylinder with null base figure
+окт. 22, 2024 8:22:10 PM geometry3d.Cylinder <init>
+SEVERE: Attempted to create Cylinder with invalid height: -5.0
